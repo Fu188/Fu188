@@ -14,7 +14,7 @@
 - 🔭 Working on **Big Data System**
 
 
-- 🌱 **Looking for a summer workshop**
+<!-- 🌱 **Looking for a summer workshop**
 
 <!--
 **Fu188/Fu188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
