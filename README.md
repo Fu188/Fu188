@@ -8,7 +8,7 @@
 - 📫 Major: Computer Science and Technology
 
 
-- ⚒️ Python/SQL/Java/JavaScript, a little bit C/C++
+- ⚒️ C/C++/Python/SQL/Java/JavaScript
 
 
 - 🔭 Working on **Big Data System**
